@@ -1,4 +1,5 @@
 
+
 /*
 @func
 	remove_special_char - remove special char in string and 
